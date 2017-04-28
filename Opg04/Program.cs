@@ -27,6 +27,15 @@ namespace Opg04
             foreach (var item in navne)
             Console.WriteLine(item);
 
+            
+            Console.WriteLine("indtast");
+            String indtast = Console.ReadLine();
+            String no = indtast.Substring(8, 4);
+            Console.WriteLine(no);
+
+
+
+
             Console.ReadKey();
 
 
