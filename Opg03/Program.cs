@@ -29,7 +29,8 @@ namespace Opg03
 
             Array.Sort(månedsløn);
             Console.ReadKey();
-
+           
+         
         }
     }
 }
