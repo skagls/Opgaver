@@ -30,12 +30,12 @@ namespace Opg07
             return r;
         }
 
-	
-	}
+
+    }
     struct ArrayResultat
     {
         public double sum;
         public double gennemsinit;
     }
-    
+
 }
