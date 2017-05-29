@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0543F64B-AFE5-4D6A-921D-55E1BFFA1E9F}</ProjectGuid>
+    <ProjectGuid>{58785067-9B7D-415F-8F99-E8BEA8433575}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Opg01HelloWorld</RootNamespace>
-    <AssemblyName>Opg01HelloWorld</AssemblyName>
+    <RootNamespace>Opg_16</RootNamespace>
+    <AssemblyName>Opg 16</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
