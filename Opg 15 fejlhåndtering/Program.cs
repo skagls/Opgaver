@@ -32,6 +32,7 @@ namespace Opg_15_fejlhåndtering
             Console.WriteLine("resultater er" + res);
         
         }
+        
      
     }
 }
