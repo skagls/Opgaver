@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg19", "Opg19\Opg19.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg20 Brug af Using", "Opg20 Brug af Using\Opg20 Brug af Using.csproj", "{F644A918-D2F3-4EC3-B164-E110F02F9218}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg21 Delegate", "Opg20 Delegate\Opg21 Delegate.csproj", "{BBE81532-CA60-4A1D-8275-0221B63915BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{F644A918-D2F3-4EC3-B164-E110F02F9218}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F644A918-D2F3-4EC3-B164-E110F02F9218}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F644A918-D2F3-4EC3-B164-E110F02F9218}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBE81532-CA60-4A1D-8275-0221B63915BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBE81532-CA60-4A1D-8275-0221B63915BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBE81532-CA60-4A1D-8275-0221B63915BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBE81532-CA60-4A1D-8275-0221B63915BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
