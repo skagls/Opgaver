@@ -12,6 +12,8 @@ namespace Opg19
         {
             //public int Id { get; set; }
             //public string Navn { get; set; }
+
+
             List<Person> lst1 = new List<Person>();
             lst1.Add(new Person() { Id = 1, Navn = "M" });
             lst1.Add(new Person() { Id = 2, Navn = "T" });
